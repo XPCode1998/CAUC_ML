@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 import time
 import matplotlib.colors as mcolors
 
+#test
 
 # 统计所有标签
 def calLabels(img_path_list):
